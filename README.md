@@ -6,7 +6,7 @@
 - 🌱 Atualmente estou aprendendo T.I
 - 🤔 Procuro ajuda com minha programação
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: tenho 16 anos
+- ⚡ Curiosidade: tenho 17 anos
 
 <div>
   <a href="https://github.com/HgOtavio">
